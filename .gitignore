@@ -2,7 +2,7 @@ __pycache__
 *.egg-info
 build
 TSB_AD/Datasets/TSB-AD-M/
-/home/nicol/TSB-AD/Datasets/TSB-AD-M
+
 run_scripts
 Datasets/TSB-AD-Datasets
 lightning_logs
@@ -13,3 +13,5 @@ TSB_AD/models/KShapeAD_tslearn.py
 TSB_AD/main_M.py
 benchmark_exp/thresh/
 dist/
+Datasets/TSB-AD-M/
+Datasets/TSB-AD-M/
