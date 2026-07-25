@@ -1,6 +1,8 @@
 __pycache__
 *.egg-info
 build
+TSB_AD/Datasets/TSB-AD-M/
+/home/nicol/TSB-AD/Datasets/TSB-AD-M
 run_scripts
 Datasets/TSB-AD-Datasets
 lightning_logs
