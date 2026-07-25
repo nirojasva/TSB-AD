@@ -1,17 +1,22 @@
-__pycache__
-*.egg-info
-build
-TSB_AD/Datasets/TSB-AD-M/
-
-run_scripts
-Datasets/TSB-AD-Datasets
-lightning_logs
-TSB_AD/models/NormA.py
-TSB_AD/models/Series2Graph.py
-TSB_AD/models/KShapeAD.py
-TSB_AD/models/KShapeAD_tslearn.py
-TSB_AD/main_M.py
-benchmark_exp/thresh/
+# Python cache/build artifacts
+__pycache__/
+*.egg-info/
+build/
 dist/
-Datasets/TSB-AD-M/
-Datasets/TSB-AD-M/
+
+# Virtual environment (hyphenated — this is the venv, NOT the TSB_AD source package)
+TSB-AD/
+
+# Datasets
+Datasets/
+
+# Windows/WSL zone identifier files
+*:Zone.Identifier
+
+# Benchmark results
+results/
+
+# Misc project-specific
+lightning_logs/
+run_scripts/
+benchmark_exp/thresh/
