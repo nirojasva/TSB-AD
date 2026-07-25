@@ -33,7 +33,7 @@ def append_result_row(row: dict, path: Path):
 
 
 # --- Config: EDIT THESE FOR EACH RUN ---
-AD_NAME = 'EIF'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD
+AD_NAME = 'LSTMAD'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD
 N_ITER = 5
 
 data_direc = Path('/home/nicol/spectral-benchmark/datasets/raw/ScenariosV4_lite')
