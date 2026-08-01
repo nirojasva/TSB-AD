@@ -6,6 +6,7 @@ dist/
 
 # Virtual environment (hyphenated — this is the venv, NOT the TSB_AD source package)
 TSB-AD/
+tsb_ad_env/
 
 # Datasets
 Datasets/
