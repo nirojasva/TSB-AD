@@ -1,0 +1,160 @@
+nohup: les entrées sont ignorées
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+Running method: MMPAD
+Saving to: ../results/results_MMPAD.csv
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA1] iter 0: AUC-PR=0.5909476897811027, VUS-PR=0.8994541715500805
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA1] iter 1: AUC-PR=0.5909476897811027, VUS-PR=0.8994541715500805
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA1] iter 2: AUC-PR=0.5909476897811027, VUS-PR=0.8994541715500805
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA1] iter 3: AUC-PR=0.5909476897811027, VUS-PR=0.8994541715500805
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA1] iter 4: AUC-PR=0.5909476897811027, VUS-PR=0.8994541715500805
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA2] iter 0: AUC-PR=0.37256988171053307, VUS-PR=0.4689405302814452
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA2] iter 1: AUC-PR=0.37256988171053307, VUS-PR=0.4689405302814452
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA2] iter 2: AUC-PR=0.37256988171053307, VUS-PR=0.4689405302814452
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/nicolas/TSB-AD/TSB_AD/utils/utility.py:33: RuntimeWarning: invalid value encountered in divide
+  res = (a - mns) / sstd
+  [DA2] iter 3: AUC-PR=0.37256988171053307, VUS-PR=0.4689405302814452
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA2] iter 4: AUC-PR=0.37256988171053307, VUS-PR=0.4689405302814452
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA3] iter 0: AUC-PR=0.7860125997366738, VUS-PR=0.8105335090261682
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA3] iter 1: AUC-PR=0.7860125997366738, VUS-PR=0.8105335090261682
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA3] iter 2: AUC-PR=0.7860125997366738, VUS-PR=0.8105335090261682
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA3] iter 3: AUC-PR=0.7860125997366738, VUS-PR=0.8105335090261682
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [DA3] iter 4: AUC-PR=0.7860125997366738, VUS-PR=0.8105335090261682
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA1] iter 0: AUC-PR=0.013028320159709334, VUS-PR=0.017466866269316976
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA1] iter 1: AUC-PR=0.013028320159709334, VUS-PR=0.017466866269316976
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA1] iter 2: AUC-PR=0.013028320159709334, VUS-PR=0.017466866269316976
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA1] iter 3: AUC-PR=0.013028320159709334, VUS-PR=0.017466866269316976
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA1] iter 4: AUC-PR=0.013028320159709334, VUS-PR=0.017466866269316976
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA2] iter 0: AUC-PR=0.1628815884622469, VUS-PR=0.1649338485144925
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA2] iter 1: AUC-PR=0.1628815884622469, VUS-PR=0.1649338485144925
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA2] iter 2: AUC-PR=0.1628815884622469, VUS-PR=0.1649338485144925
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA2] iter 3: AUC-PR=0.1628815884622469, VUS-PR=0.1649338485144925
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA2] iter 4: AUC-PR=0.1628815884622469, VUS-PR=0.1649338485144925
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA3] iter 0: AUC-PR=0.8602967662805477, VUS-PR=0.8639467516651539
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA3] iter 1: AUC-PR=0.8602967662805477, VUS-PR=0.8639467516651539
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA3] iter 2: AUC-PR=0.8602967662805477, VUS-PR=0.8639467516651539
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA3] iter 3: AUC-PR=0.8602967662805477, VUS-PR=0.8639467516651539
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [SA3] iter 4: AUC-PR=0.8602967662805477, VUS-PR=0.8639467516651539
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA1] iter 0: AUC-PR=0.04396575153964515, VUS-PR=0.04918832133158443
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA1] iter 1: AUC-PR=0.04396575153964515, VUS-PR=0.04918832133158443
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA1] iter 2: AUC-PR=0.04396575153964515, VUS-PR=0.04918832133158443
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA1] iter 3: AUC-PR=0.04396575153964515, VUS-PR=0.04918832133158443
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA1] iter 4: AUC-PR=0.04396575153964515, VUS-PR=0.04918832133158443
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA2] iter 0: AUC-PR=0.13457327691321924, VUS-PR=0.1641409196196657
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA2] iter 1: AUC-PR=0.13457327691321924, VUS-PR=0.1641409196196657
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA2] iter 2: AUC-PR=0.13457327691321924, VUS-PR=0.1641409196196657
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA2] iter 3: AUC-PR=0.13457327691321924, VUS-PR=0.1641409196196657
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA2] iter 4: AUC-PR=0.13457327691321924, VUS-PR=0.1641409196196657
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA3] iter 0: AUC-PR=0.022842799177840593, VUS-PR=0.030663579331320412
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA3] iter 1: AUC-PR=0.022842799177840593, VUS-PR=0.030663579331320412
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA3] iter 2: AUC-PR=0.022842799177840593, VUS-PR=0.030663579331320412
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA3] iter 3: AUC-PR=0.022842799177840593, VUS-PR=0.030663579331320412
+/home/nicolas/TSB-AD/tsb_ad_env/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1879: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+  [TA3] iter 4: AUC-PR=0.022842799177840593, VUS-PR=0.030663579331320412
+
+Done. Results saved to: ../results/results_MMPAD.csv

@@ -33,13 +33,13 @@ def append_result_row(row: dict, path: Path):
 
 
 # --- Config: EDIT THESE FOR EACH RUN ---
-AD_NAME = 'Time_RCD'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD
+AD_NAME = 'StreamVAE'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD - Others: MMPAD, StreamVAE
 N_ITER = 5
 
-data_direc = Path('/home/nicol/spectral-benchmark/datasets/raw/ScenariosV4_lite')
+data_direc = Path('../Datasets/raw/ScenariosV4_lite/')
 csv_files = sorted(data_direc.glob('*.csv'))   # use '*TA3_..._0.csv' to test on one file only
 
-output_dir = Path('/home/nicol/TSB-AD/results')
+output_dir = Path('../results')
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # One fixed filename per method (no timestamp) so re-runs extend/overwrite predictably

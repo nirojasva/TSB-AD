@@ -5,7 +5,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None)
 
-output_dir = Path('/home/nicol/TSB-AD/results')
+output_dir = Path('./results')
 
 # --- Load every per-method results file ---
 all_files = sorted(output_dir.glob('results_*.csv'))
