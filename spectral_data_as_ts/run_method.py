@@ -33,7 +33,7 @@ def append_result_row(row: dict, path: Path):
 
 
 # --- Config: EDIT THESE FOR EACH RUN ---
-AD_NAME = 'StreamVAE'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD - Others: MMPAD, StreamVAE
+AD_NAME = 'PCA'   # <-- Naive_ZScore, KNN, LOF, EIF, CNN, LSTMAD - Others: MMPAD, StreamVAE, PCA
 N_ITER = 5
 
 data_direc = Path('../Datasets/raw/ScenariosV4_lite/')
